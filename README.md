@@ -1,5 +1,23 @@
 # OSMTracker for Android™
 
+> **🌳 Fork Personalizado - Inventario de Parques**
+> 
+> Este fork incluye botones personalizados para inventario de parques:
+> - Poste de luz
+> - Edificios
+> - Elementos de parque de niños
+> - Bancas
+> - Mesas
+> - Basureros
+> - Árboles con/sin arbustos
+> - Bebederos (no funcionales)
+> - Puestos de guarda
+> - Plantas
+> - Paradas de bus
+> - Tipos de piso (zacate, ladrillo, concreto, tierra)
+>
+> Repositorio: https://github.com/KeylorH/osmtracker-KAJ
+
 ![Build](https://github.com/labexp/osmtracker-android/actions/workflows/android.yml/badge.svg?branch=develop)
 [![Coverage Status](https://coveralls.io/repos/github/labexp/osmtracker-android/badge.svg?branch=develop)](https://coveralls.io/github/labexp/osmtracker-android?branch=develop)
 
